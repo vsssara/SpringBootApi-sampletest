@@ -1,0 +1,16 @@
+com\javabycode\springboot\model\User.class
+com\javabycode\springboot\service\UserServiceImpl.class
+com\javabycode\springboot\controller\UserController.class
+com\javabycode\springboot\Repo\UserDataRepo.class
+com\javabycode\springboot\util\ErrorType.class
+com\javabycode\springboot\MySpringBootApplication.class
+com\javabycode\springboot\Repo\UserRepository.class
+com\javabycode\springboot\service\ParticularUser.class
+com\javabycode\springboot\model\LazyData.class
+com\javabycode\springboot\service\UserService.class
+com\javabycode\springboot\controller\RestfulController.class
+com\javabycode\springboot\model\UserData.class
+com\javabycode\springboot\Repo\Parti_User_Repo.class
+com\javabycode\springboot\controller\UserDataController.class
+com\javabycode\springboot\model\UserEntity.class
+com\javabycode\springboot\service\Partic_user_ServiceImpl.class
